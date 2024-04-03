@@ -1,4 +1,5 @@
 # COSPro2_1
+```
 #include <stdio.h>
 
 
@@ -16,3 +17,4 @@ int main(void)
 }
 
 //한 줄 주석
+```
