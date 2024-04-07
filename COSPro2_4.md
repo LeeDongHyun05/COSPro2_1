@@ -1,3 +1,4 @@
+```
 #include <stdio.h>
 
 int main(void)
@@ -28,3 +29,4 @@ int main(void)
 	printf("정수 245를  실수로 : %lf \n", num1);
 	printf("실수 3.1415를  정수로 : %d \n", num2);
 	printf("큰 정수 129를 작은 정수로 : %d \n", ch);*/
+```
