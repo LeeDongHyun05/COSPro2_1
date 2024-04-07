@@ -1,3 +1,4 @@
+```
 #include <stdio.h>
 
 int main(void)
@@ -55,3 +56,4 @@ int main(void)
 
 	printf("024의 10진 정수값 : %d \n", num4);
 	printf("%o의 10진 정수값 : %d \n", num4, num4);*/
+```
